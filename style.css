@@ -87,3 +87,23 @@ input[type="reset"] {
   grid-row: 3 / 4;
   grid-column: 4 / 5;
 }
+
+.one-btn {
+  grid-row: 4 / 5;
+  grid-column: 1 / 2;
+}
+
+.two-btn {
+  grid-row: 4 / 5;
+  grid-column: 2 / 3;
+}
+
+.three-btn {
+  grid-row: 4 / 5;
+  grid-column: 3 / 4;
+}
+
+.add-equa_btn {
+  grid-row: 4 / 5;
+  grid-column: 4 / 5;
+}
